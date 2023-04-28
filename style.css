@@ -1,0 +1,83 @@
+.container1{
+    display: grid;
+    grid-template-rows: 20px 20px 20px 20px 20px 20px;
+    row-gap: 10px;
+}
+.header1{
+    border: 2px solid red;
+    width: 30vh;
+    border-radius: 5px;
+}
+.navigation1{
+    border: 2px solid red;
+    width: 30vh;
+    border-radius: 5px;
+}
+.main1{
+    border: 2px solid red;
+    grid-row-start: 3;
+    grid-row-end: 10;
+    width: 30vh;
+    border-radius: 5px;
+}
+.sidebar1{
+    border: 2px solid red;
+    width: 30vh;
+    border-radius: 5px;
+}
+.adds1{
+    border: 2px solid red;
+    width: 30vh;
+    border-radius: 5px;
+}
+.footer1{
+    border: 2px solid red;
+    width: 30vh;
+    border-radius: 5px;
+}
+.container2{
+    display: grid;
+    grid-template-rows: 20px 20px 20px 20px 20px 20px;
+    row-gap: 10px;
+}
+.header2{
+    border: 2px solid red;
+    width: 50vh;
+    border-radius: 5px;
+}
+.navigation2{
+    border: 2px solid red;
+    width: 50vh;
+    border-radius: 5px;
+}
+.container3{
+    display: grid;
+    grid-template-columns: 15vh 34vh ;
+    column-gap: 10px;
+   
+}
+.sidebar2{
+    border: 2px solid red;
+    border-radius: 5px;
+    height: 30vh;
+}
+.main2{
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.container4{
+    display: grid;
+    grid-template-columns: 15vh 34vh ;
+    column-gap: 10px;
+}
+.adds2{
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-top: 10px;
+   
+}
+.footer2{
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-top: 10px;
+}
